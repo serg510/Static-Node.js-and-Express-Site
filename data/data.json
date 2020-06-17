@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "id": "give each project a unique id",
+            "project_name": "",
+            "description": "",
+            "technologies": "an array of strings containing a list of the technologies used in the project",
+            "live_link": "link to the live version of the project",
+            "github_link": " link to the GitHub repo",
+            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+        },
+        {
+            "id": "give each project a unique id",
+            "project_name": "",
+            "description": "",
+            "technologies": "an array of strings containing a list of the technologies used in the project",
+            "live_link": "link to the live version of the project",
+            "github_link": " link to the GitHub repo",
+            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+        }
+    ]
+}
