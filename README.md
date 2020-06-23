@@ -10,3 +10,5 @@ i'll use Node.js and Express to:
 * Set up the middleware to utilize static files like CSS
 * Handle errors
 * Set up a server to serve the project
+
+[step 4 done for all 5 projects]
