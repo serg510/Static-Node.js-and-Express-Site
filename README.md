@@ -11,4 +11,4 @@ i'll use Node.js and Express to:
 * Handle errors
 * Set up a server to serve the project
 
-[step 4 done for all 5 projects]
+[ [ In progress ] step 5 ]
