@@ -1,6 +1,7 @@
 const express = require("express");
 const path = require("path");
-const jsonData = require("./data/data.json");
+const { projects } = require("./data/data.json");
+ 
 
 const app = express();
 // view engine setup
