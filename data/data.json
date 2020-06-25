@@ -1,8 +1,22 @@
 {
     "projects": [
         {
-            "id": "give each project a unique id",
-            "project_name": "",
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "a program that displays a randomly selected quote each time the user clicks a button",
+            "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
+            "live_link": "link to the live version of the project",
+            "github_link": "https://github.com/serg510/treehouse1project.git",
+            "image_urls": [
+                "../static/public/images/project_1/main.png",
+                "../static/public/images/project_1/1.png",
+                "../static/public/images/project_1/2.png",
+                "../static/public/images/project_1/3.png"
+
+            ]},
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
             "description": "",
             "technologies": "an array of strings containing a list of the technologies used in the project",
             "live_link": "link to the live version of the project",
@@ -10,8 +24,26 @@
             "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
         },
         {
-            "id": "give each project a unique id",
-            "project_name": "",
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "",
+            "technologies": "an array of strings containing a list of the technologies used in the project",
+            "live_link": "link to the live version of the project",
+            "github_link": " link to the GitHub repo",
+            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "",
+            "technologies": "an array of strings containing a list of the technologies used in the project",
+            "live_link": "link to the live version of the project",
+            "github_link": " link to the GitHub repo",
+            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
             "description": "",
             "technologies": "an array of strings containing a list of the technologies used in the project",
             "live_link": "link to the live version of the project",
