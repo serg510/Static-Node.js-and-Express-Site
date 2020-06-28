@@ -5,7 +5,7 @@
             "project_name": "A Random Quote Generator",
             "description": "a program that displays a randomly selected quote each time the user clicks a button",
             "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
-            "live_link": "link to the live version of the project",
+            "live_link": "TBD",
             "github_link": "https://github.com/serg510/treehouse1project.git",
             "image_urls": [
                 "../static/public/images/project_1/main.png",
@@ -13,42 +13,64 @@
                 "../static/public/images/project_1/2.png",
                 "../static/public/images/project_1/3.png"
 
-            ]},
+            ]
+        },
         {
             "id": 1,
-            "project_name": "List Pagination and Filtering",
-            "description": "",
-            "technologies": "an array of strings containing a list of the technologies used in the project",
-            "live_link": "link to the live version of the project",
-            "github_link": " link to the GitHub repo",
-            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+            "project_name": "Pagination and Filtering",
+            "description": "Creating the pagination effect without using any addons.",
+            "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
+            "live_link": "TBD",
+            "github_link": "https://github.com/serg510/project2-pagination.git",
+            "image_urls": [
+                "../static/public/images/project_2/main.png",
+                "../static/public/images/project_2/1.png",
+                "../static/public/images/project_2/2.png"
+            ]
         },
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "",
-            "technologies": "an array of strings containing a list of the technologies used in the project",
-            "live_link": "link to the live version of the project",
-            "github_link": " link to the GitHub repo",
-            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+            "description": "JavaScript to enhance an interactive registration form for a fictional conference called 'FullStack Conf'." ,
+            "technologies":[ "JavaScript" , "HTML" , "CSS" ],
+            "live_link": "TBD",
+            "github_link": "https://github.com/serg510/interactive-form-project3.git",
+            "image_urls": [
+                "../static/public/images/project_3/main.png",
+                "../static/public/images/project_3/1.png",
+                "../static/public/images/project_3/2.png"
+            ]
         },
         {
             "id": 3,
             "project_name": "OOP Game Show App",
-            "description": "",
-            "technologies": "an array of strings containing a list of the technologies used in the project",
-            "live_link": "link to the live version of the project",
-            "github_link": " link to the GitHub repo",
-            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+            "description": " browser-based, word guessing game: 'Phrase Hunter.'",
+            "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
+            "live_link": "TBD",
+            "github_link": "https://github.com/serg510/OOP-Game-Show-App-project4.git",
+            "image_urls": [
+                "../static/public/images/project_4/main.png",
+                "../static/public/images/project_4/1.png",
+                "../static/public/images/project_4/2.png",
+                "../static/public/images/project_4/3.png",
+                "../static/public/images/project_4/4.png"
+
+            ]
         },
         {
             "id": 4,
             "project_name": "Public API Requests",
-            "description": "",
-            "technologies": "an array of strings containing a list of the technologies used in the project",
-            "live_link": "link to the live version of the project",
-            "github_link": " link to the GitHub repo",
-            "image_urls": "an array of strings containing file paths from the views folder to the images themselves."
+            "description": "an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world",
+            "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
+            "live_link": "TBD",
+            "github_link": "https://github.com/serg510/Public-API-Requests.git",
+            "image_urls": [
+                "../static/public/images/project_5/main.png",
+                "../static/public/images/project_5/1.png",
+                "../static/public/images/project_5/2.png",
+                "../static/public/images/project_5/3.png"
+
+            ]
         }
     ]
 }
