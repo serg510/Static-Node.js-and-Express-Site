@@ -8,10 +8,10 @@
             "live_link": "TBD",
             "github_link": "https://github.com/serg510/treehouse1project.git",
             "image_urls": [
-                "../static/public/images/project_1/main.png",
-                "../static/public/images/project_1/1.png",
-                "../static/public/images/project_1/2.png",
-                "../static/public/images/project_1/3.png"
+                "../static/images/project_1/main.png",
+                "../static/images/project_1/1.png",
+                "../static/images/project_1/2.png",
+                "../static/images/project_1/3.png"
 
             ]
         },
@@ -23,9 +23,9 @@
             "live_link": "TBD",
             "github_link": "https://github.com/serg510/project2-pagination.git",
             "image_urls": [
-                "../static/public/images/project_2/main.png",
-                "../static/public/images/project_2/1.png",
-                "../static/public/images/project_2/2.png"
+                "../static/images/project_2/main.png",
+                "../static/images/project_2/1.png",
+                "../static/images/project_2/2.png"
             ]
         },
         {
@@ -36,9 +36,9 @@
             "live_link": "TBD",
             "github_link": "https://github.com/serg510/interactive-form-project3.git",
             "image_urls": [
-                "../static/public/images/project_3/main.png",
-                "../static/public/images/project_3/1.png",
-                "../static/public/images/project_3/2.png"
+                "../static/images/project_3/main.png",
+                "../static/images/project_3/1.png",
+                "../static/images/project_3/2.png"
             ]
         },
         {
@@ -49,11 +49,11 @@
             "live_link": "TBD",
             "github_link": "https://github.com/serg510/OOP-Game-Show-App-project4.git",
             "image_urls": [
-                "../static/public/images/project_4/main.png",
-                "../static/public/images/project_4/1.png",
-                "../static/public/images/project_4/2.png",
-                "../static/public/images/project_4/3.png",
-                "../static/public/images/project_4/4.png"
+                "../static/images/project_4/main.png",
+                "../static/images/project_4/1.png",
+                "../static/images/project_4/2.png",
+                "../static/images/project_4/3.png",
+                "../static/images/project_4/4.png"
 
             ]
         },
@@ -65,10 +65,10 @@
             "live_link": "TBD",
             "github_link": "https://github.com/serg510/Public-API-Requests.git",
             "image_urls": [
-                "../static/public/images/project_5/main.png",
-                "../static/public/images/project_5/1.png",
-                "../static/public/images/project_5/2.png",
-                "../static/public/images/project_5/3.png"
+                "../static/images/project_5/main.png",
+                "../static/images/project_5/1.png",
+                "../static/images/project_5/2.png",
+                "../static/images/project_5/3.png"
 
             ]
         }
