@@ -6,14 +6,16 @@ const path = require("path");
 const app = express();
 // view engine setup
 app.set("view engine","pug");
-//static route to serve the static files located in the public folder
 
+//static route to serve the static files located in the public folder
 app.use('/static', express.static(path.join(__dirname, 'public')))
 
+//declaring routes
 const mainRoute = require("./routes/index.js");
 const aboutRoute = require("./routes/about.js");
 const projectRoute = require("./routes/project.js");
 
+// calling routes
 app.use(mainRoute);
 app.use('/about', aboutRoute);
 app.use('/project', projectRoute);
@@ -33,6 +35,7 @@ app.use((err, req, res, next) => {
 });
 
 
+//declaring a port variable to listen on
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {

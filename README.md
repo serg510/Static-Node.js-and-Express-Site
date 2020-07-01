@@ -11,4 +11,13 @@ i'll use Node.js and Express to:
 * Handle errors
 * Set up a server to serve the project
 
-[ [ In progress ] step 6 ]
+
+
+*** Extra Credit ***
+
+* Set up your package.json file so that running npm start will run the app [DONE]
+* Use error handling middleware to render a Pug template [DONE]
+* Customize the style [DONE]
+    * changed fonts h1,h5
+    * changed color on font on portfolio-me
+    * changed background-color on portfolio-me

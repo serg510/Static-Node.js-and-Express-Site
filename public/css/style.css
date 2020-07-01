@@ -148,3 +148,22 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+/* ****Extra Credit**** */
+
+/*   changed background-color on portfolio-me */
+.portfolio-me{
+  padding: 20px;
+  background: hsla(46, 72%, 48%, 0.967);
+  color: #fff;
+  box-shadow: none !important;
+}
+/*   changed color on font on portfolio-me */
+.portfolio-me p{
+  font-size: 14px;
+  color: rgb(14, 13, 13);
+}
+/*   changed fonts */
+h1,h5{
+  font-family: 'Cinzel','Merriweather', serif;
+}
