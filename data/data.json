@@ -5,7 +5,7 @@
             "project_name": "A Random Quote Generator",
             "description": "a program that displays a randomly selected quote each time the user clicks a button",
             "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
-            "live_link": "TBD",
+            "live_link": "https://serg510.github.io/treehouse1project/a_random_quote_generator-v1/",
             "github_link": "https://github.com/serg510/treehouse1project.git",
             "image_urls": [
                 "../static/images/project_1/main.png",
@@ -20,7 +20,7 @@
             "project_name": "Pagination and Filtering",
             "description": "Creating the pagination effect without using any addons.",
             "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
-            "live_link": "TBD",
+            "live_link": "https://serg510.github.io/project2-pagination/",
             "github_link": "https://github.com/serg510/project2-pagination.git",
             "image_urls": [
                 "../static/images/project_2/main.png",
@@ -33,7 +33,7 @@
             "project_name": "Interactive Form",
             "description": "JavaScript to enhance an interactive registration form for a fictional conference called 'FullStack Conf'." ,
             "technologies":[ "JavaScript" , "HTML" , "CSS" ],
-            "live_link": "TBD",
+            "live_link": "https://serg510.github.io/interactive-form-project3/",
             "github_link": "https://github.com/serg510/interactive-form-project3.git",
             "image_urls": [
                 "../static/images/project_3/main.png",
@@ -46,7 +46,7 @@
             "project_name": "OOP Game Show App",
             "description": " browser-based, word guessing game: 'Phrase Hunter.'",
             "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
-            "live_link": "TBD",
+            "live_link": "https://serg510.github.io/OOP-Game-Show-App-project4/",
             "github_link": "https://github.com/serg510/OOP-Game-Show-App-project4.git",
             "image_urls": [
                 "../static/images/project_4/main.png",
@@ -62,7 +62,7 @@
             "project_name": "Public API Requests",
             "description": "an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world",
             "technologies":[ "JavaScript" , "HTML" , "CSS" ] ,
-            "live_link": "TBD",
+            "live_link": "https://serg510.github.io/Public-API-Requests/",
             "github_link": "https://github.com/serg510/Public-API-Requests.git",
             "image_urls": [
                 "../static/images/project_5/main.png",
